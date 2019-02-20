@@ -1,5 +1,10 @@
+body {
+	font-size: 1.3em;
+}
 .layout-blueBackground {
-	background-color: lightblue;
+	background-color: blue;
 	color:white;
 	border-radius: 15px;
+	padding: 3%;
+	margin-top: 4%;
 }
